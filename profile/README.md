@@ -32,15 +32,15 @@
 ### 🖥️ Server Deployment Environment
 🖼️ **Image Server**
 
-<img width="550" alt="이미지 서버 배포" src="https://user-images.githubusercontent.com/87802191/189529874-439bc429-b967-4b7b-a2ae-0514f041acdc.png">
+<img width="600" alt="이미지 서버 배포" src="https://user-images.githubusercontent.com/87802191/189529874-439bc429-b967-4b7b-a2ae-0514f041acdc.png">
 
 📟 **Front-end Server**
 
-<img width="360" alt="프론트 배포" src="https://user-images.githubusercontent.com/87802191/189529917-3b5afae3-a02b-4d50-8649-d76f6ce8e92b.png">
+<img width="370" alt="프론트 배포" src="https://user-images.githubusercontent.com/87802191/189529917-3b5afae3-a02b-4d50-8649-d76f6ce8e92b.png">
 
 🗄️ **Back-end Server**
 
-<img width="830" alt="백 배포" src="https://user-images.githubusercontent.com/87802191/189529928-3a55421b-9a94-4a5f-9b96-db63d1b423af.png">
+<img width="840" alt="백 배포" src="https://user-images.githubusercontent.com/87802191/189529928-3a55421b-9a94-4a5f-9b96-db63d1b423af.png">
 
 <br> 
 
