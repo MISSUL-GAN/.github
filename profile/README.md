@@ -6,6 +6,7 @@
 </p>
 
 # Missul;GAN
+**숭실대학교 소프트웨어학부 소프트웨어공모전 총장상🥇**
 ### GAN을 활용한 작품 공유 커뮤니티 및 NFT 연동 서비스
 
 <img width="1500" alt="미슐간 대표 이미지" src="https://user-images.githubusercontent.com/87802191/189531752-368286e0-993b-41fa-9bb2-8b8c3f52ad7f.png">
